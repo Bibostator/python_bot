@@ -34,7 +34,6 @@ def say_hello(**payload):
             channel=channel_id,
             text=f"Уважаемый <@{user}>! Пожалуйста введите своё имя",
         )
-        web_client.
 
 slack_token = ''
 rtm_client = slack.RTMClient(token=slack_token)
