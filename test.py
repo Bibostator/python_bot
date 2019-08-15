@@ -47,7 +47,32 @@ def body(**payload):
         web_client.chat_postMessage(
             channel=channel_id,
             text=f"Спасибо, {text}",
+            attachments= [
+                {
+                    "fallback": "Would you recommend it to customers?",
+                    "title": "Would you recommend it to customers?",
+                    "callback_id": "comic_1234_xyz",
+                    "color": "#3AA3E3",
+                    "attachment_type": "default",
+                    "actions": [
+                        {
+                            "name": "register",
+                            "text": "Зарегистрироваться",
+                            "type": "button",
+                            "value": "reg"
+                        },
+                        {
+                            "name": "no",
+                            "text": "Отменить",
+                            "type": "button",
+                            "value": "cancel"
+                        }
+                    ]
+                }
+            ]
         )
+
+
 
 slack_token = ''
 rtm_client = slack.RTMClient(token=slack_token)
