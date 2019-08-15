@@ -1,6 +1,5 @@
 import os
 import slack
-import asyncio
 """
 client = slack.WebClient(')
 
@@ -9,10 +8,15 @@ response = client.chat_postMessage(
     text="Всем привет!")
 assert response["ok"]
 """
-
+reg_user=''
 @slack.RTMClient.run_on(event='message')
-def say_hello(**payload):
+def body(**payload):
+    global reg_user
     data = payload['data']
+    print(data)
+    print(type(data))
+    if data.get("subtype", None) == 'bot_message':
+        return
     web_client = payload['web_client']
     rtm_client = payload['rtm_client']
     if 'Hello' in data['text']:
@@ -25,14 +29,24 @@ def say_hello(**payload):
             text=f"Hi <@{user}>!",
 
             )
-    if '/register' in data['text']:
+    if '1' in data['text']:
         channel_id = data['channel']
         thread_ts = data['ts']
-        user = data['user']
-
+        user = reg_user = data['user']
         web_client.chat_postMessage(
             channel=channel_id,
             text=f"Уважаемый <@{user}>! Пожалуйста введите своё имя",
+        )
+
+        return
+
+    if reg_user == data['user']:
+        channel_id = data['channel']
+        text = data['text']
+        reg_user = ''
+        web_client.chat_postMessage(
+            channel=channel_id,
+            text=f"Спасибо, {text}",
         )
 
 slack_token = ''
