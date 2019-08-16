@@ -2,23 +2,342 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57651f37-05b5-4d8e-bd06-a80c546e1c62" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_bot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINK.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LINK.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp-3.5.4.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp-3.5.4.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp-3.5.4.dist-info/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp-3.5.4.dist-info/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp-3.5.4.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp-3.5.4.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp-3.5.4.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp-3.5.4.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_cparser.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_cparser.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_find_header.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_find_header.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_find_header.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_find_header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_find_header.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_find_header.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_frozenlist.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_frozenlist.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_frozenlist.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_frozenlist.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_headers.pxi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_headers.pxi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_helpers.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_helpers.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_helpers.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_helpers.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_helpers.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_helpers.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_http_parser.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_http_parser.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_http_parser.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_http_parser.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_http_writer.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_http_writer.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_http_writer.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_http_writer.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_websocket.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_websocket.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_websocket.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/_websocket.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/abc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/base_protocol.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/base_protocol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/client_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/client_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/client_proto.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/client_proto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/client_reqrep.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/client_reqrep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/client_ws.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/client_ws.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/connector.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/connector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/cookiejar.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/cookiejar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/formdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/formdata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/frozenlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/frozenlist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/frozenlist.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/frozenlist.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/hdrs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/hdrs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/http.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/http_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/http_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/http_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/http_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/http_websocket.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/http_websocket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/http_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/http_writer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/locks.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/locks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/multipart.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/multipart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/payload.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/payload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/payload_streamer.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/payload_streamer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/pytest_plugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/pytest_plugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/resolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/resolver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/signals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/signals.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/signals.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/streams.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/streams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/tcp_helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/tcp_helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/tracing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/tracing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/typedefs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/typedefs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_fileresponse.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_fileresponse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_protocol.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_protocol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_routedef.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_routedef.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_urldispatcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_urldispatcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_ws.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/web_ws.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/aiohttp/worker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout-3.0.1.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout-3.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout-3.0.1.dist-info/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout-3.0.1.dist-info/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout-3.0.1.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout-3.0.1.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout-3.0.1.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout-3.0.1.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout-3.0.1.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout-3.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/async_timeout/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio-3.4.3.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio-3.4.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio-3.4.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio-3.4.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio-3.4.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio-3.4.3.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio-3.4.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/base_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/base_subprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/coroutines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/futures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/locks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/proactor_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/protocols.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/queues.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/selector_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/selectors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/sslproto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/streams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/subprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/tasks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/test_support.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/test_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/transports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/unix_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/windows_events.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/asyncio/windows_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/__init__.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/__init__.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/_compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/_compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/_funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/_funcs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/_make.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/_make.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/converters.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/converters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/converters.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/converters.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/exceptions.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/exceptions.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/filters.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/filters.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/validators.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/validators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/validators.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attr/validators.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attrs-19.1.0.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attrs-19.1.0.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attrs-19.1.0.dist-info/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attrs-19.1.0.dist-info/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attrs-19.1.0.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attrs-19.1.0.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attrs-19.1.0.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attrs-19.1.0.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/attrs-19.1.0.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/attrs-19.1.0.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/entry_points.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/entry_points.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet-3.0.4.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/big5freq.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/big5freq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/big5prober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/big5prober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/chardistribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/chardistribution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/charsetgroupprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/charsetgroupprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/charsetprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/charsetprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/cli/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/cli/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/cli/chardetect.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/cli/chardetect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/codingstatemachine.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/codingstatemachine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/cp949prober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/cp949prober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/enums.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/enums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/escprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/escprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/escsm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/escsm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/eucjpprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/eucjpprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/euckrfreq.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/euckrfreq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/euckrprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/euckrprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/euctwfreq.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/euctwfreq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/euctwprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/euctwprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/gb2312freq.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/gb2312freq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/gb2312prober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/gb2312prober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/hebrewprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/hebrewprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/jisfreq.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/jisfreq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/jpcntx.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/jpcntx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langbulgarianmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langcyrillicmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langgreekmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langgreekmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langhebrewmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langhebrewmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langhungarianmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langhungarianmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langthaimodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langthaimodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langturkishmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/langturkishmodel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/latin1prober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/latin1prober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/mbcharsetprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/mbcharsetprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/mbcsgroupprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/mbcssm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/mbcssm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/sbcharsetprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/sbcharsetprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/sbcsgroupprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/sjisprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/sjisprober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/universaldetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/universaldetector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/utf8prober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/utf8prober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/chardet/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna-2.8.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna-2.8.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna-2.8.dist-info/LICENSE.rst" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna-2.8.dist-info/LICENSE.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna-2.8.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna-2.8.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna-2.8.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna-2.8.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna-2.8.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna-2.8.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/codec.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/codec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/idnadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/idnadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/intranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/intranges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/package_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/package_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/uts46data.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna/uts46data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl-1.1.0-py3.6.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl-1.1.0-py3.6.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl-1.1.0-py3.6.egg-info/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl-1.1.0-py3.6.egg-info/dependency_links.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl-1.1.0-py3.6.egg-info/not-zip-safe" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl-1.1.0-py3.6.egg-info/not-zip-safe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl-1.1.0-py3.6.egg-info/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl-1.1.0-py3.6.egg-info/requires.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl-1.1.0-py3.6.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl-1.1.0-py3.6.egg-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/idna_ssl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict-4.5.2.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict-4.5.2.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict-4.5.2.dist-info/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict-4.5.2.dist-info/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict-4.5.2.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict-4.5.2.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict-4.5.2.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict-4.5.2.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/__init__.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/__init__.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_abc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_abc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_istr.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_istr.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_iter.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_iter.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_iter.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_iter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_iter.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_iter.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_py.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_views.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_views.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_views.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_views.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_views.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_multidict_views.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_pair_list.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_pair_list.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_pair_list.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_pair_list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_pair_list.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/multidict/_pair_list.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/dependency_links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/dependency_links.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/entry_points.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/entry_points.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/requires.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/setuptools-39.1.0-py3.6.egg" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/setuptools-39.1.0-py3.6.egg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/rtm/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/rtm/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/base_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/base_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/actions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/attachments.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/attachments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/blocks.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/blocks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/dialog_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/dialog_elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/dialogs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/dialogs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/interactions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/interactions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/messages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/classes/objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/slack_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slack/web/slack_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slackclient-2.1.0.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slackclient-2.1.0.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slackclient-2.1.0.dist-info/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slackclient-2.1.0.dist-info/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slackclient-2.1.0.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slackclient-2.1.0.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slackclient-2.1.0.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slackclient-2.1.0.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/slackclient-2.1.0.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/slackclient-2.1.0.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions-3.7.4.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions-3.7.4.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions-3.7.4.dist-info/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions-3.7.4.dist-info/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions-3.7.4.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions-3.7.4.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions-3.7.4.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions-3.7.4.dist-info/WHEEL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions-3.7.4.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions-3.7.4.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/typing_extensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl-1.3.0.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl-1.3.0.dist-info/INSTALLER" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl-1.3.0.dist-info/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl-1.3.0.dist-info/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl-1.3.0.dist-info/METADATA" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl-1.3.0.dist-info/METADATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl-1.3.0.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl-1.3.0.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl/__init__.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl/__init__.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl/_quoting.c" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl/_quoting.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl/_quoting.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl/_quoting.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl/quoting.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/site-packages/yarl/quoting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Lib/tcl8.6/init.tcl" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Lib/tcl8.6/init.tcl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Scripts/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Scripts/chardetect.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Scripts/chardetect.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Scripts/easy_install-3.6-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Scripts/easy_install-3.6-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Scripts/easy_install-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Scripts/easy_install-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Scripts/pip-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Scripts/pip-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Scripts/pip3-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Scripts/pip3-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/Scripts/pip3.6-script.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/Scripts/pip3.6-script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv1/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv1/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="580" />
+    <option name="y" value="200" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
   <component name="ProjectId" id="1PSPPZhKFKPKC3Mg9Gwnc9rW9Zo" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="D:/Разработка/Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -41,7 +360,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="SDK_HOME" value="D:\Python\venv1\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -51,9 +370,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
@@ -74,15 +390,84 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32988048" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32988048" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32988048" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32988048" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32988048" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13473769" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

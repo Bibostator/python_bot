@@ -1,5 +1,7 @@
 import os
 import slack
+from flask import Flask, request, make_response, Response
+import json
 """
 client = slack.WebClient(')
 
@@ -8,6 +10,8 @@ response = client.chat_postMessage(
     text="Всем привет!")
 assert response["ok"]
 """
+app = Flask(__name__)
+
 reg_user=''
 @slack.RTMClient.run_on(event='message')
 def body(**payload):
@@ -71,8 +75,30 @@ def body(**payload):
                 }
             ]
         )
+@app.route("/", methods=["POST"])
+def json_html():
 
+    # Parse the request payload
+    form_json = json.loads(request.form["payload"])
+    print('Working')
+    val = form_json["actions"][0]["value"]
+    if val == "cancel":
+        response_text = "O_o"
+    else:
+        response_text = "No"
+    client = slack.WebClient('')
+    response = client.chat_postMessage(
+        channel="#test",
+        text=response_text,
+    )
 
+    return make_response("", 200)
+@app.route("/")
+def index():
+    return 'Hello World'
+
+if __name__ == '__main__':
+    app.run(host='localhost', port=80)
 
 slack_token = ''
 rtm_client = slack.RTMClient(token=slack_token)
